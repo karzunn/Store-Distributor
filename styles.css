@@ -1,0 +1,24 @@
+canvas {
+    overflow: hidden;
+    background-color: black;
+   }
+ 
+body {
+    overflow: hidden;
+    background-color: white;
+   }
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h4 {
+    color: black;
+    text-align: center;
+}
+
+input {
+    margin:0px auto;
+    display:block;
+}
